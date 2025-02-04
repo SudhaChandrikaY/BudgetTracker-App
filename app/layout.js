@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
     <ClerkProvider>
       <html lang="en">
         <head>
-          {/* <title>Budget Tracker</title> */}
+          <title>Budget Tracker</title>
           {/* Favicon Icon */}
           <link rel="icon" type="image/svg+xml" href="/logo.svg" />
           <meta name="description" content="Track your budget with ease" />
