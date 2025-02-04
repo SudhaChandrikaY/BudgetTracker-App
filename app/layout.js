@@ -5,10 +5,10 @@ import { Toaster } from "@/components/ui/toaster";
 
 const ubuntu = Ubuntu({ weight: "400", subsets: ["latin"] });
 
-// export const metadata = {
-//   title: "Budget Tracker",
-//   description: "Track your budget with ease",
-// };
+export const metadata = {
+  title: "Budget Tracker",
+  description: "Track your budget with ease",
+};
 
 export default function RootLayout({ children }) {
   return (
